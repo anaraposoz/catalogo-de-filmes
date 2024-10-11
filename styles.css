@@ -6,4 +6,5 @@ body {
 header{
     text-align: center;
     font-size: 50px;
+    border-bottom: solid 5px purple;
 }
