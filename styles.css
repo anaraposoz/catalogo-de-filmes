@@ -1,7 +1,6 @@
 body {
     background: black;
     color: purple;
-    display: flex;
 }
 
 header{
@@ -10,4 +9,8 @@ header{
     border-bottom: solid 2px purple;
     margin-left: 80;
     margin-right: 80;
+}
+
+section{
+    display: flex;
 }
