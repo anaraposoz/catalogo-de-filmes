@@ -13,12 +13,13 @@ header{
 
 section{
     display: flex;
-    background-color: rgb(111, 15, 206);
+    background-color: rgb(61, 1, 61);
     padding-bottom: 80px;
     padding-top: 70px;
     margin-top: 20px;
     justify-content: center;
 }
+
 .chamada-texto{
 margin-right: 5%;
 
