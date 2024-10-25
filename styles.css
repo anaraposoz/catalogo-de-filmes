@@ -10,6 +10,7 @@ header{
     border-bottom: solid 2px purple;
     margin-left: 80;
     margin-right: 80;
+
 }
 
 section{
@@ -25,4 +26,8 @@ section{
 margin-right: 5%;
 
 
+}
+img{
+  width: 150px;  
+  height: 200px; 
 }
