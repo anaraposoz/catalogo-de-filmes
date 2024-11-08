@@ -13,7 +13,7 @@ header{
 
 }
 
-section{
+.primeira{
     display: flex;
     background-color: rgb(61, 1, 61);
     padding-bottom: 80px;
@@ -47,4 +47,10 @@ h2{
 img:hover{
 opacity: 1;
 border: 2px solid;
+}
+.fim{
+    padding-bottom: 80px;
+    padding-top: 70px;
+    margin-top: 20px;
+    justify-content: center;
 }
