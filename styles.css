@@ -29,5 +29,22 @@ margin-right: 5%;
 }
 img{
   width: 150px;  
-  height: 200px; 
+  height: 200px;
+  opacity: 0.5; 
+}
+.filme{
+display:flex;
+overflow-x: auto;
+gap: 20xp;
+justify-content: center;
+}
+
+h2{
+ text-align: center;
+
+
+}
+img:hover{
+opacity: 1;
+border: 2px solid;
 }
